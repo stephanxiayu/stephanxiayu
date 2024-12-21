@@ -24,13 +24,13 @@
 
 ## 🚀 **Work Experience**
 
-💼 Fireabend.pro - Founder and Developer
+### 💼 Fireabend.pro - Founder and Developer
 🗓️ December 2024 - Present | Berlin, Germany
 🔹 Founded Fireabend.pro, a startup to support young entrepreneurs in turning their startup ideas into reality.
 🔹 Developed the platform using modern web and mobile technologies to empower aspiring founders.
 🔹 Developing the Landing-Page and Frontend in **Next.js TypeScript**, Backend in **Node.js TypeScript** and the Mobile App in **Flutter**.
 
-💼 SGB-Energy - Clearing Manager
+### 💼 SGB-Energy - Clearing Manager
 🗓️ November 2024 - Present | Berlin, Germany
 🔹 Responsible for investigating and resolving issues related to rejected orders from sales partners.
 🔹 Streamlined the process to ensure smooth collaboration between stakeholders.
