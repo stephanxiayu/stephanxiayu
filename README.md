@@ -38,6 +38,12 @@
 🔹 Responsible for investigating and resolving issues related to rejected orders from sales partners.
 🔹 Streamlined the process to ensure smooth collaboration between stakeholders.
 
+### 💼 VisionChecker App - Founder and Developer
+🗓️ August 2024 - Present | Berlin, Germany
+🔹 Designed an app to help users visualize their visions, set goals, and track their progress.
+🔹 Encourages users to establish routines and work on them daily to achieve personal success.
+🔹 Developed with a focus on simplicity and usability, enabling individuals to stay motivated and disciplined.
+
 ### 💼 **Shiftly24.de** - Co-Founder, CTO and Lead Dev  
 🗓️ *December 2023 - Present | Berlin, Germany*  
 🔹 Developing the Landing-Page and Frontend in **Next.js TypeScript**, Backend in **Node.js TypeScript** and the Mobile App in **Flutter**.
