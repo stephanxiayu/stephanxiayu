@@ -1,8 +1,4 @@
-# Hi there, I'm **Stephan**, Flutter Dev 👋
-
-- 🌱 I'm a **Flutter & Fullstack Web Developer**!
-- 💬 Ask me about **Flutter, Clean Architecture & TDD**.
-- 📫 How to reach me: [stephan_granzow@web.de](mailto:stephan_granzow@web.de)
+# Hi there, I'm **Stephan**, Flutter & TypeScripte Fullstack Dev 👋
 
 ---
 ## 🔨 I'm building with...
@@ -23,7 +19,7 @@
 ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&logoColor=white&style=for-the-badge)
 ![Kinde Auth](https://img.shields.io/badge/-Kinde%20Auth-4A90E2?style=for-the-badge)
 
-     
+- 📫 How to reach me: [www.linkedin.com/in/stephan-g-780016b4](https://www.linkedin.com/in/stephan-g-780016b4)
 
 ## 🚀 **Work Experience**
 
