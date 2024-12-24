@@ -1,4 +1,4 @@
-# Hi there, I'm **Stephan**, Flutter & TypeScripte Fullstack Dev 👋
+# Hi there, I'm **Stephan**, Flutter & TypeScript Fullstack Dev 👋
 
 ---
 ## 🔨 I'm building with...
