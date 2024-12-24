@@ -19,7 +19,6 @@
 ![Stripe](https://img.shields.io/badge/-Stripe-008CDD?logo=stripe&logoColor=white&style=for-the-badge)
 ![Kinde Auth](https://img.shields.io/badge/-Kinde%20Auth-4A90E2?style=for-the-badge)
 
-- 📫 How to reach me: [www.linkedin.com/in/stephan-g-780016b4](https://www.linkedin.com/in/stephan-g-780016b4)
 
 ## 🚀 **Work Experience**
 
@@ -78,6 +77,8 @@
 - 🌍 **Child Care Worker** - Berliner Stadtmission (2013)
 
 ## 🌐 **Find me elsewhere**
+
+- 📫 How to reach me: [www.linkedin.com/in/stephan-g-780016b4](https://www.linkedin.com/in/stephan-g-780016b4)
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/stephan-g-780016b4)  
 - 🔗 [Portfolio](https://www.stephan-granzow.com/)
