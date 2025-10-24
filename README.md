@@ -26,7 +26,7 @@
 SGB Energie 🗓️ November 2024 - Present | Berlin, Germany 🔹 Quality assurance across business processes (GPKE, GeLi Gas, MPES, WIM) - ZEMMACLS clarification list - Monitoring of data exchange.
 
 ### 💼 Founder & Developer
-Durchschnittsrechner (Average Calculator) · Self-employed 🗓️ October 2025 - Present | Berlin, Germany · Remote 🔹 (You can add your bullet points for this project here)
+Durchschnittsrechner (Average Calculator) · Self-employed 🗓️ October 2025 - Present | Berlin, Germany · Remote 🔹 Developed Frontend in Next.js TypeScript
 
 ### 💼 Founder & SaaS Developer
 Shiftly24 - Dein Dienstplaner · Self-employed 🗓️ October 2025 - Present | Berlin, Germany · Remote 🔹 We are digitalizing shift planning! 🚀 🔹 Developing the Landing-Page and Frontend in Next.js TypeScript, Backend in Node.js TypeScript and the Mobile App in Flutter.
