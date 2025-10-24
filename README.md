@@ -22,22 +22,20 @@
 
 ## 🚀 **Work Experience**
 
-### 💼 Fireabend.pro - Founder and Developer
-🗓️ December 2024 - Present | Berlin, Germany
-🔹 Founded Fireabend.pro, a startup to support young entrepreneurs in turning their startup ideas into reality.
-🔹 Developed the platform using modern web and mobile technologies to empower aspiring founders.
-🔹 Developing the Landing-Page and Frontend in **Next.js TypeScript**, Backend in **Node.js TypeScript** and the Mobile App in **Flutter**.
+### 💼 Clearing Manager
+SGB Energie 🗓️ November 2024 - Present | Berlin, Germany 🔹 Quality assurance across business processes (GPKE, GeLi Gas, MPES, WIM) - ZEMMACLS clarification list - Monitoring of data exchange.
 
-### 💼 SGB-Energy - Clearing Manager
-🗓️ November 2024 - Present | Berlin, Germany
-🔹 Responsible for investigating and resolving issues related to rejected orders from sales partners.
-🔹 Streamlined the process to ensure smooth collaboration between stakeholders.
+### 💼 Founder & Developer
+Durchschnittsrechner (Average Calculator) · Self-employed 🗓️ October 2025 - Present | Berlin, Germany · Remote 🔹 (You can add your bullet points for this project here)
 
-### 💼 VisionChecker App - Founder and Developer
-🗓️ August 2024 - Present | Berlin, Germany
-🔹 Designed an app to help users visualize their visions, set goals, and track their progress.
-🔹 Encourages users to establish routines and work on them daily to achieve personal success.
-🔹 Developed with a focus on simplicity and usability, enabling individuals to stay motivated and disciplined.
+### 💼 Founder & SaaS Developer
+Shiftly24 - Dein Dienstplaner · Self-employed 🗓️ October 2025 - Present | Berlin, Germany · Remote 🔹 We are digitalizing shift planning! 🚀 🔹 Developing the Landing-Page and Frontend in Next.js TypeScript, Backend in Node.js TypeScript and the Mobile App in Flutter.
+
+### 💼 Founder & SaaS Developer
+Fireabend.pro · Self-employed 🗓️ January 2025 - Present | Berlin, Germany · Remote 🔹 A startup where I personally programmed the complete software. 🔹 Developed Frontend in Next.js TypeScript, Backend in Node.js TypeScript, and Mobile App in Flutter.
+
+### 💼 Founder & Mobile App Developer
+VisionChecker · Self-employed 🗓️ August 2024 - Present | Berlin, Germany · Remote 🔹 Designed an app to help users visualize their visions, set goals, and track their progress. 🔹 Encourages users to establish routines and work on them daily to achieve personal success. 🔹 Developed with a focus on simplicity and usability, enabling individuals to stay motivated and disciplined.
 
 ### 💼 **Shiftly24.de** - Co-Founder, CTO and Lead Dev  
 🗓️ *December 2023 - Present | Berlin, Germany*  
