@@ -79,4 +79,4 @@ VisionChecker · Self-employed 🗓️ August 2024 - Present | Berlin, Germany �
 - 📫 How to reach me: [www.linkedin.com/in/stephan-g-780016b4](https://www.linkedin.com/in/stephan-g-780016b4)
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/stephan-g-780016b4)  
-- 🔗 [Portfolio](https://www.stephan-granzow.com/)
+
